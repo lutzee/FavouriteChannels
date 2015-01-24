@@ -1,0 +1,3 @@
+﻿Add Logging properly
+Add comments
+Actually test
